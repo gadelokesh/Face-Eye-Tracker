@@ -1,4 +1,4 @@
-# Face & Eye Detection App 👁️‍🗨️
+# Face & Eye Detection 👁️‍🗨️
 
 ## Overview
 The **Face & Eye Detection App** is designed to detect faces and eyes in images and real-time webcam footage. Built with **Streamlit**, this app provides a user-friendly interface to upload images or use your webcam for detection. The app highlights detected faces with rectangles and labels for clarity, making it an ideal introduction to computer vision using Python.
